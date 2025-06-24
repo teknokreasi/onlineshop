@@ -20,13 +20,13 @@ const IntroducingSection = () => {
         </h2>
         <div>
           <p className="text-white text-center text-2xl font-semibold max-md:text-xl max-[480px]:text-base">
-            Buy the latest electronics.
+            Beli perangkat elektronik terbaru.
           </p>
           <p className="text-white text-center text-2xl font-semibold max-md:text-xl max-[480px]:text-base">
-            The best electronics for tech lovers.
+            Perangkat elektronik terbaik untuk pecinta gadget.
           </p>
           <Link href="/shop" className="block text-blue-600 bg-white font-bold px-12 py-3 text-xl hover:bg-gray-100 w-96 mt-2  max-md:text-lg max-md:w-72 max-[480px]:w-60 mx-auto">
-            SHOP NOW
+            BELANJA SEKARANG
           </Link>
         </div>
       </div>

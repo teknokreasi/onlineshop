@@ -1,61 +1,61 @@
 export const categoryMenuList = [
   {
     id: 1,
-    title: "Smart Phones",
+    title: "Ponsel Pintar",
     src: "/smart phone icon.png",
     href: "/shop/smart-phones"
   },
   {
     id: 2,
-    title: "Tablets",
+    title: "Tablet",
     src: "/tablet icon.png",
     href: "/shop/tablets"
   },
   {
     id: 3,
-    title: "Mouses",
+    title: "Mouse",
     src: "/mouse icon.png",
     href: "/shop/mouses"
   },
   {
     id: 4,
-    title: "Cameras",
+    title: "Kamera",
     src: "/camera icon.png",
     href: "/shop/cameras"
   },
   {
     id: 5,
-    title: "Smart Watches",
+    title: "Jam Tangan Pintar",
     src: "/smart watch.png",
     href: "/shop/watches"
   },
   {
     id: 6,
-    title: "Laptops",
+    title: "Laptop",
     src: "/laptop icon.png",
     href: "/shop/laptops"
   },
   {
     id: 7,
-    title: "PCs",
+    title: "PC",
     src: "/pc icon.png",
     href: "/shop/computers"
   },
   {
     id: 8,
-    title: "Printers",
+    title: "Printer",
     src: "/printers icon.png",
     href: "/shop/printers"
   },
   {
     id: 9,
-    title: "Earbuds",
+    title: "Headset",
     src: "/ear buds icon.png",
     href: "/shop/earbuds"
   },
   {
     id: 10,
-    title: "Head Phones",
+    title: "Headphone",
     src: "/headphone icon.png",
     href: "/shop/headphones"
   },
@@ -63,19 +63,19 @@ export const categoryMenuList = [
 
 export const incentives = [
   {
-    name: "Free Shipping",
+    name: "Bebas Ongkir",
     description:
       "Our shipping is completely free and that is completely good for our customers.",
     imageSrc: "/shipping icon.png",
   },
   {
-    name: "24/7 Customer Support",
+    name: "Dukungan Penuh 24/7",
     description:
       "Our support is working all day and night to answer any question you have.",
     imageSrc: "/support icon.png",
   },
   {
-    name: "Fast Shopping Cart",
+    name: "Keranjang Belanja Cepat",
     description:
       "We have super fast shopping experience and you will enjoy it.",
     imageSrc: "/fast shopping icon.png",
@@ -84,25 +84,25 @@ export const incentives = [
 
 export const navigation = {
   sale: [
-    { name: "Discounts", href: "#" },
-    { name: "News", href: "#" },
-    { name: "Register Discounts", href: "#" },
+    { name: "Diskon", href: "#" },
+    { name: "Berita", href: "#" },
+    { name: "Daftarkan Diskon", href: "#" },
   ],
   about: [
-    { name: "About Singitronic", href: "#" },
-    { name: "Work With Us", href: "#" },
-    { name: "Company Profile", href: "#" },
+    { name: "Tentang Global Tujuh", href: "#" },
+    { name: "Bekerja Bersama Kami", href: "#" },
+    { name: "Profil Perusahaan", href: "#" },
   ],
   buy: [
-    { name: "Singitronic Loyalty Card", href: "#" },
-    { name: "Terms Of Use", href: "#" },
-    { name: "Privacy Policy", href: "#" },
-    { name: "Complaints", href: "#" },
-    { name: "Partners", href: "#" },
+    { name: "Kartu Loyalitas Perusahaan", href: "#" },
+    { name: "Aturan Penggunaan", href: "#" },
+    { name: "Kebijakan Privasi", href: "#" },
+    { name: "Komplain", href: "#" },
+    { name: "Rekan", href: "#" },
   ],
   help: [
-    { name: "Contact", href: "#" },
-    { name: "How to Buy at Singitronic", href: "#" },
+    { name: "Kontak", href: "#" },
+    { name: "Cara Membeli di Global Tujuh", href: "#" },
     { name: "FAQ", href: "#" },
   ],
 };
