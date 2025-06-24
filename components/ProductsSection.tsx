@@ -14,7 +14,7 @@ import Heading from "./Heading";
 
 const ProductsSection = async () => {
   // sending API request for getting all products
-  const data = await fetch("http://127.0.0.1:3001/api/products");
+  const data = await fetch("http://localhost:3001/api/products");
   const products = await data.json();
   console.log(products);
   return (
