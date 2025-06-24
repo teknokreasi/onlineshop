@@ -16,7 +16,7 @@ const ProductsSection = async () => {
   // sending API request for getting all products
   const data = await fetch("http://localhost:3001/api/products");
   return (
-    <div>{JSON.stringify()}</div>
+    <div>{JSON.stringify(data)}</div>
   );
   console.log(data);
   const products = await data.json();
